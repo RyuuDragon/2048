@@ -181,5 +181,3 @@ public static void Save(List<string[]> results)
 - **Работа со строками и числами** — `int.Parse()` / `ToString()` для преобразования значений на плитках.
 
 ---
-
-```

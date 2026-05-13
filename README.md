@@ -1,4 +1,4 @@
-# 🎮 2048 — Классическая головоломка на чистой логике
+# 🎮 2048 — Классическая головоломка
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
